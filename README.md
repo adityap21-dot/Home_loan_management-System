@@ -1,2 +1,2 @@
 # Home_loan_management-System
-Created Home Loan Management system in Java using restful-api with frontend angular js
+A full-stack web application for managing home loan processes. The frontend is built with AngularJS for a responsive and interactive UI, while the backend is powered by Java (Spring Boot) for robust APIs and database management. The system supports customer loan applications, document management, loan status tracking, and admin operations with full CRUD functionality.
